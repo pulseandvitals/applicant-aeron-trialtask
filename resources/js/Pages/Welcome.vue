@@ -55,8 +55,10 @@ defineProps({
                 <p
                     class="font-light text-gray-500 sm:text-xl dark:text-gray-400"
                 >
-                    I am Robert Aeron Salcedo and heres my simple and
-                    minimalistic design.
+                    I used Laravel Vue3 Inertia for this trial project. I used
+                    Traits,Resource,Request,Prefixes. I did not used Service coz
+                    query is just too short, I used Tailwind for CSS designing.
+                    Heres my simple and minimalistic design.
                 </p>
             </div>
         </div>
